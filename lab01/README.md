@@ -68,7 +68,7 @@ After activation, the terminal should display:
 ### 3. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r lab01/requirements.txt
 ```
 
 This project uses only the Python standard library.
