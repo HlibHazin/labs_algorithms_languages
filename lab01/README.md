@@ -18,16 +18,21 @@ The goal of this lab is to observe and explain object behavior rather than imple
 ## Project Structure
 
 ```
-lab01/
+LABS/                       
 │
-├─ .venv/
-├─ report/
-│   └─ answers.md
-├─ src/
-│   └─ lab01.py
-│─ .gitignore
-│─ README.md
-└─ requirements.txt
+├── .gitignore                              
+│
+└── lab01/    
+    │              
+    ├── README.md      
+    │
+    ├── requirements.txt
+    │
+    ├── report/                  
+    │   └── answers.md        
+    │
+    └── src/              
+        └── lab01.py       
 ```
 
 ---
@@ -73,7 +78,7 @@ This project uses only the Python standard library.
 ## Run the Program
 
 ```bash
-python src/lab01.py
+python lab01/src/lab01.py
 ```
 
 ---
