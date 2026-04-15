@@ -40,13 +40,20 @@ labs_algorithms_languages/
 │   │   └── answers.md
 │   └── src/
 │       └── lab05.py
-└── lab06/
+├── lab06/
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── report/
+│   │   └── answers.md
+│   └── src/
+│       └── lab06.py
+└── lab07/
     ├── README.md
     ├── requirements.txt
     ├── report/
     │   └── answers.md
     └── src/
-        └── lab06.py
+        └── lab07.py
 ```
 ---
 
