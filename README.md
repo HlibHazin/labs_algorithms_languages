@@ -54,13 +54,26 @@ labs_algorithms_languages/
 │   │   └── answers.md
 │   └── src/
 │       └── lab07.py
-└── lab08/
-    ├── README.md
-    ├── requirements.txt
-    ├── report/
-    │   └── answers.md
-    └── src/
-        └── lab08.py
+├── lab08/
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── report/
+│   │   └── answers.md
+│   └── src/
+│       └── lab08.py
+└── lab09/
+    ├── README.md              
+    ├── requirements.txt       
+    ├── report/                
+    │   └── report.md
+    └── src/                
+        └── report_tool/
+            ├── __init__.py
+            ├── __main__.py
+            ├── formatting.py
+            ├── helpers.py
+            └── storage.py
+
 ```
 ---
 
