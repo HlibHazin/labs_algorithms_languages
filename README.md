@@ -73,7 +73,7 @@ labs_algorithms_languages/
 │           ├── formatting.py
 │           ├── helpers.py
 │           └── storage.py
-├── lab10/
+└── lab10/
     ├── README.md              
     ├── requirements.txt       
     ├── report/                
